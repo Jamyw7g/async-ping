@@ -11,7 +11,6 @@ getrandom = "0.2.3"
 libc = "0.2.101"
 log = "0.4.14"
 pnet_packet = "0.28.0"
-socket2 = { version = "0.4.1", features = ["all"] }
 thiserror = "1.0.28"
 tokio = { version = "1.10.1", features = ["full"] }
 
